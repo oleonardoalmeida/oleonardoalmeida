@@ -4,41 +4,67 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/oleonardoalmeida)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/leonardo-almeida-reis-amorim/)
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleonardoalmeida&show_icons=true&theme=dracula)
+<div align="center">
 
-## Tecnologias que uso no meu dia
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oleonardoalmeida&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oleonardoalmeida&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oleonardoalmeida&theme=nord_dark&utcOffset=8) |
+| :-: | :-: | :-: |
 
-<div style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
-  gap: 25px;
-  justify-items: center; 
-  padding: 20px;
-  background: #48494a; 
-  border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-">
-  <img style="width: 60px; height: auto;" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img style="width: 60px; height: auto;" alt="terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-  <img style="width: 60px; height: auto;" alt="ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
-  <img style="width: 60px; height: auto;" alt="argocd" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" />
-  <img style="width: 60px; height: auto;" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-  <img style="width: 60px; height: auto;" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img style="width: 60px; height: auto;" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img style="width: 60px; height: auto;" alt="jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-  <img style="width: 60px; height: auto;" alt="datadog" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" />
-  <img style="width: 60px; height: auto;" alt="prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
-  <img style="width: 60px; height: auto;" alt="grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
-  <img style="width: 60px; height: auto;" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img style="width: 60px; height: auto;" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img style="width: 60px; height: auto;" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img style="width: 60px; height: auto;" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img style="width: 60px; height: auto;" alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img style="width: 60px; height: auto;" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img style="width: 60px; height: auto;" alt="tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img style="width: 60px; height: auto;" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img style="width: 60px; height: auto;" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img style="width: 60px; height: auto;" alt="vault" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" />
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleonardoalmeida&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oleonardoalmeida&theme=nord)](https://git.io/streak-stats) |
+| :-: | :-: |
+  
+</div>
+
+## Tecnologias que já usei/uso bastante:
+### DevOps:
+<div align="center" style="display: inline_block;">
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Terraform-Dark.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ansible.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kafka.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RabbitMQ-Dark.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prometheus.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" />
+</div>
+
+
+### Linguagens de programação (sei que HTML é de marcação):
+<div align="center" style="display: inline_block">
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
+</div>
+
+### Banco de dados e Adapters:
+<div align="center" style="display: inline_block">
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Prisma.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
+</div>
+
+### Frameworks / Bibliotecas:
+<div align="center" style="display: inline_block">
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" />
+</div>
+
+### Sistemas operacionais:
+<div align="center" style="display: inline_block">
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" />
+  <img width="45" style="margin: 5px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" />
 </div>
 
 <!--
